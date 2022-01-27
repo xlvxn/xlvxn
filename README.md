@@ -3,17 +3,19 @@
 ## I'm a Developer
 
 - 🔭 I’m currently learning everything 🤣
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Stay hungry, stay foolish
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<code>
-<img alt="visual studio code" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+<img alt="portofolio" width="26px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />
+</code>](https://profile.vin-dev.my.id/)
+[<code>
+<img alt="linkedin" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </code>](https://www.linkedin.com/in/alvin-fauzi-aulia)
 [<code>
-<img alt="visual studio code" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+<img alt="instagram" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </code>](https://www.instagram.com/this.vin/)
 <br/>
 
@@ -55,11 +57,5 @@
 [<code>
 <img alt="github" width="26px" src="https://img.icons8.com/ios-glyphs/240/000000/github.png">
 </code>](https://github.com/)
-
----
-
-[![vin GitHub stats](https://github-readme-stats.vercel.app/api?username=xlvxn&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/xlvxn)
-
-[![vin GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=xlvxn&layout=compact&langs_count=8&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/xlvxn)
 
 [website]: https://profile.vin-dev.my.id/
