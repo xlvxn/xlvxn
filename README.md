@@ -1,13 +1,14 @@
-### Hi there, I'm [Alvin] 👋
+### Hi there, I'm [Alvin][website] 👋 
 
 ## I'm a Developer
 
--   🔭 I’m currently learning everything 🤣
--   👨🏻‍💻 Stay hungry, stay foolish
--   🥅 2021 Goals: Contribute more to Open Source projects
+- 🔭 I’m currently learning everything 🤣
+- 🥅 2020 Goals: Contribute more to Open Source projects
+- ⚡ Stay hungry, stay foolish
 
 ### Connect with me:
 
+[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<code>
 <img alt="visual studio code" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </code>](https://www.linkedin.com/in/alvin-fauzi-aulia)
@@ -60,3 +61,5 @@
 [![vin GitHub stats](https://github-readme-stats.vercel.app/api?username=xlvxn&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/xlvxn)
 
 [![vin GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=xlvxn&layout=compact&langs_count=8&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/xlvxn)
+
+[website]: https://profile.vin-dev.my.id/
