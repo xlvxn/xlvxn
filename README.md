@@ -52,8 +52,10 @@
 [<code>
 <img alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png">
 </code>](https://dev.mysql.com/)
+[<code>
 <img alt="SQLServer" width="26px" src="https://img.icons8.com/color/344/microsoft-sql-server.png">
 </code>](https://www.microsoft.com/en-us/sql-server/sql-server-2019)
+[<code>
 <img alt="PostgreSQL" width="26px" src="https://img.icons8.com/color/344/postgreesql.png">
 </code>](https://www.postgresql.org/)
 [<code>
