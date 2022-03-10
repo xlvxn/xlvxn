@@ -29,11 +29,14 @@
 <img alt="javascript" width="26px" src="https://img.icons8.com/color/240/000000/javascript.png" />
 </code>](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [<code>
-<img alt="php" width="26px" src="https://img.icons8.com/offices/160/000000/php-logo.png" />
+<img alt="php" width="26px" src="https://res.cloudinary.com/deztl5rlx/image/upload/v1636617874/php_lg8ck6.png" />
 </code>](https://www.php.net/)
 [<code>
 <img alt="laravel" width="26px" src="https://res.cloudinary.com/deztl5rlx/image/upload/v1636617876/laravel_npc9sa.png" />
 </code>](https://laravel.com/)
+[<code>
+<img alt="java" width="26px" src="https://res.cloudinary.com/deztl5rlx/image/upload/v1636617873/java_mxrtci.png" />
+</code>](https://www.java.com/en/)
 [<code>
 <img alt="react" width="26px" src="https://img.icons8.com/color/240/000000/react-native.png" />
 </code>](https://reactjs.org/)
