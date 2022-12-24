@@ -5,3 +5,5 @@
 - 🔭 I’m currently learning Fullstack
 - 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Stay hungry, stay foolish
+
+[website]: https://www.linkedin.com/in/alvin-fauzi-aulia/
