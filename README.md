@@ -3,7 +3,7 @@
 ## I'm a Developer
 
 - 🔭 I’m currently learning Fullstack
-- 🥅 2023 Goals: Contribute more to Open Source projects
+- 🥅 2025 Goals: Contribute more to Open Source projects
 - ⚡ Stay hungry, stay foolish
 
 [website]: https://www.linkedin.com/in/alvin-fauzi-aulia/
